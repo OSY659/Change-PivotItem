@@ -1,0 +1,13 @@
+pivotname.SelectedItem = pivotitem2;
+
+/// You have to write in button or whatever. It will work when you click. And if you are in pivotitem1, you will pass the pivotitem2
+
+For example;
+       
+private void image1_Tapped(object sender, TappedRoutedEventArgs e)
+        {
+            webbrowser1.Navigate(new Uri("http://instagram.com/dev.osy"));
+            pivotic.SelectedItem = pivot2;
+
+        }
+   

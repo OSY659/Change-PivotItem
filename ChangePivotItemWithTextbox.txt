@@ -1,0 +1,4 @@
+int i = Convert.ToInt32(textBox.Text);
+            pvt.SelectedIndex = i;
+
+But if you wanna go to pivotitem28, you can write 28 on the textbox and you can pass the 28th pivotitem with this code.
